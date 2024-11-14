@@ -8,13 +8,16 @@ função = Funções são blocos de construção fundamentais em JavaScript. Uma
 
 variaves: As variáveis ​​podem ser usadas para armazenar dados em um programa, como strings, números, objetos JSON ou valores booleanos. Em JavaScript, existem três tipos de variáveis ​​diferentes: var , let , e const . 
 
-if/else: As sentenças if e if…else são estruturas de controle de fluxo usadas em JavaScript. O fluxo de código condicional permite escolher a instrução seguinte, dependendo da resposta ou resultado. Graças às estruturas if e if…else, o programa toma uma decisão de como executar o código quando é cumprida ou não uma condição necessária.
+if/else: As sentenças if e if else são estruturas de controle de fluxo usadas em JavaScript. O fluxo de código condicional permite escolher a instrução seguinte, dependendo da resposta ou resultado. Graças às estruturas if e if…else, o programa toma uma decisão de como executar o código quando é cumprida ou não uma condição necessária.
 
 console.log: O console é efetivamente um objeto com diversos métodos associados.
 O objeto console fornece acesso à consola de depuração do navegador. O funcionamento deste objeto varia de navegador para navegador mas existem determinados métodos que são vistos como um standard. Um desses métodos é o log()
 
 indexof: 
 O método indexOf() retorna o índice da primeira ocorrência do valor fornecido em searchValue, começando a busca a partir de fromIndex . Retorna -1 se o valor não for encontrado. Nota: Para o método de Array, veja Array.
+
+delete:
+O delete remove a propriedade do objeto, caso você precise apenas alterar o valor da propriedade o exemplo também mostra como alterar o valor.
 
 
 ## Atividades desenvolvidas
@@ -39,3 +42,10 @@ https://codepen.io/Rogeriojjr114/pen/wvVzPBG
 
 jogo do codepen:
 https://codepen.io/Rogeriojjr114/pen/xxojqJW
+
+Delete:
+https://codepen.io/Rogeriojjr114/pen/bGXZgwd
+
+Array.prototype.splice:
+https://codepen.io/Rogeriojjr114/pen/bGXZgwd
+
